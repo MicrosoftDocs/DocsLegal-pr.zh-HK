@@ -1,0 +1,54 @@
+{
+  "build_entry_point": "op",
+  "docsets_to_publish": [
+    {
+      "docset_name": "DocsLegal",
+      "build_source_folder": "DocsLegal",
+      "build_output_subfolder": "DocsLegal",
+      "locale": "zh-HK",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
+    },
+    {
+      "docset_name": "intune",
+      "build_source_folder": "DocsLegal/intune",
+      "build_output_subfolder": "intune",
+      "locale": "zh-HK",
+      "open_to_public_contributors": false,
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
+    }
+  ],
+  "notification_subscribers": [],
+  "branches_to_filter": [
+    "live-sxs",
+    "master-sxs"
+  ],
+  "continue_with_document_error": true,
+  "skip_source_output_uploading": false,
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.zh-HK",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_repo.en-us",
+      "url": "https://github.com/MicrosoftDocs/DocsLegal-pr",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
+    }
+  ],
+  "need_generate_pdf_url_template": false,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
+}
