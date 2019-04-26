@@ -1,0 +1,9 @@
+{
+    "redirections": [
+        {
+        "source_path": "DocsLegal/marketplace/general-policies.md",
+        "redirect_url": "certification-policies",
+        "redirect_document_id": true
+        }     
+    ]
+}
