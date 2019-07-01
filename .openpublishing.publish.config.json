@@ -23,7 +23,7 @@
       "docset_name": "intune",
       "build_source_folder": "DocsLegal/intune",
       "build_output_subfolder": "intune",
-      "locale": "en-us",
+      "locale": "zh-hk",
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
