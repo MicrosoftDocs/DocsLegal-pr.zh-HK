@@ -28,7 +28,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+       "ms.prod": "legal"
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "DocsLegal",
