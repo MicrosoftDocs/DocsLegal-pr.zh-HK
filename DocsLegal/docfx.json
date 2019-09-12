@@ -31,6 +31,7 @@
     "globalMetadata": {
        "ms.prod": "legal"
     },
+    "breadcrumb_path": "/legal/bread/toc.json",
     "fileMetadata": {},
     "template": [],
     "dest": "DocsLegal",
