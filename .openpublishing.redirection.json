@@ -4,6 +4,16 @@
         "source_path": "DocsLegal/marketplace/general-policies.md",
         "redirect_url": "certification-policies",
         "redirect_document_id": true
-        }     
+        },
+        {
+        "source_path": "DocsLegal/windows/agreements/app-developer-agreement.md",
+        "redirect_url": "https://go.microsoft.com/fwlink/?linkid=528905",
+        "redirect_document_id": false
+        },
+         {
+        "source_path": "DocsLegal/windows/agreements/app-developer-agreement-change-history.md",
+        "redirect_url": "https://go.microsoft.com/fwlink/?linkid=528905",
+        "redirect_document_id": false
+        }    
     ]
 }
