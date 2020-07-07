@@ -2,7 +2,7 @@
 # [一般資料保護法規 (GDPR)](gdpr.md)
 # [Azure 軟件授權條款](/legal/information-protection/software-license-terms)
 # [使用條款](/legal/termsofuse)
-&lt;!--&gt;
+<!-->
 ## [巴斯克語](software-license-terms-eu-es.md)
 ## [保加利亞語](software-license-terms-bg-bg.md)
 ## [加泰隆尼亞語](software-license-terms-ca-es.md)
