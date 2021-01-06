@@ -19,6 +19,21 @@
         "source_path": "DocsLegal/windows/agreements/app-developer-agreement-change-history.md",
         "redirect_url": "https://go.microsoft.com/fwlink/?linkid=528905",
         "redirect_document_id": false
-        }    
+        },
+        {
+        "source_path": "DocsLegal/intune/microsoft-intune-privacy-statement.md",
+        "redirect_url": "https://www.microsoft.com/trust-center/privacy/data-location",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/intune/privacy-statement.md",
+        "redirect_url": "https://www.microsoft.com/trust-center/privacy/data-location",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/intune/sign-in-privacy-statement.md",
+        "redirect_url": "https://www.microsoft.com/trust-center/privacy/data-location",
+        "redirect_document_id": false
+        }
     ]
 }
