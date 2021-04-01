@@ -39,6 +39,11 @@
         "source_path": "DocsLegal/marketplace/participation-policy.md",
         "redirect_url": "/azure/marketplace/policies-terms",
         "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/intune/remote-assistance-via-microsoft-easy-assist.md",
+        "redirect_url": "/mem/intune/fundamentals/intune-legacy-pc-client",
+        "redirect_document_id": false
         }
     ]
 }
