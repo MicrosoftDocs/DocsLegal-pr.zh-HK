@@ -6,6 +6,11 @@
         "redirect_document_id": true
         },
         {
+        "source_path": "DocsLegal/marketplace/terms.md",
+        "redirect_url": "marketplace-terms",
+        "redirect_document_id": false
+        },
+        {
         "source_path": "DocsLegal/windows/agreements/app-developer-agreement.md",
         "redirect_url": "https://go.microsoft.com/fwlink/?linkid=528905",
         "redirect_document_id": false
@@ -43,11 +48,6 @@
         {
         "source_path": "DocsLegal/intune/remote-assistance-via-microsoft-easy-assist.md",
         "redirect_url": "/mem/intune/fundamentals/intune-legacy-pc-client",
-        "redirect_document_id": false
-        },
-        {
-        "source_path": "DocsLegal/legal/marketplace/terms.md",
-        "redirect_url": "marketplace-terms",
         "redirect_document_id": false
         }
     ]
