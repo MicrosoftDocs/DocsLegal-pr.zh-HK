@@ -6,14 +6,99 @@
         "redirect_document_id": true
         },
         {
+        "source_path": "DocsLegal/marketplace/terms.md",
+        "redirect_url": "marketplace-terms",
+        "redirect_document_id": false
+        },
+        {
         "source_path": "DocsLegal/windows/agreements/app-developer-agreement.md",
         "redirect_url": "https://go.microsoft.com/fwlink/?linkid=528905",
         "redirect_document_id": false
         },
-         {
+        {
+        "source_path": "DocsLegal/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview.md",
+        "redirect_url": "https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/intro-to-spatial-analysis-public-preview",
+        "redirect_document_id": false
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/transparency-note.md",
+            "redirect_url": "/legal/cognitive-services/language-service/transparency-note",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/data-privacy.md",
+            "redirect_url": "/legal/cognitive-services/language-service/data-privacy",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/guidance-integration-responsible-use.md",
+            "redirect_url": "/legal/cognitive-services/language-service/guidance-integration-responsible-use",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/transparency-note-executive-summarization.md",
+            "redirect_url": "/legal/cognitive-services/language-service/transparency-note-extractive-summarization",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/transparency-note-health.md",
+            "redirect_url": "/legal/cognitive-services/language-service/transparency-note-health",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/transparency-note-key-phrase-extraction.md",
+            "redirect_url": "/legal/cognitive-services/language-service/transparency-note-key-phrase-extraction",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/transparency-note-language-detection.md",
+            "redirect_url": "/legal/cognitive-services/language-service/transparency-note-language-detection",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/transparency-note-named-entity-recognition.md",
+            "redirect_url": "/legal/cognitive-services/language-service/transparency-note-named-entity-recognition",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/transparency-note-personally-identifiable-information.md",
+            "redirect_url": "/legal/cognitive-services/language-service/transparency-note-personally-identifiable-information",
+            "redirect_document_id": true
+        },
+        {
+            "source_path": "DocsLegal/cognitive-services/text-analytics/transparency-note-sentiment-analysis.md",
+            "redirect_url": "/legal/cognitive-services/language-service/transparency-note-sentiment-analysis",
+            "redirect_document_id": true
+        },
+        {
         "source_path": "DocsLegal/windows/agreements/app-developer-agreement-change-history.md",
         "redirect_url": "https://go.microsoft.com/fwlink/?linkid=528905",
         "redirect_document_id": false
-        }    
+        },
+        {
+        "source_path": "DocsLegal/intune/microsoft-intune-privacy-statement.md",
+        "redirect_url": "https://www.microsoft.com/trust-center/privacy/data-location",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/intune/privacy-statement.md",
+        "redirect_url": "https://www.microsoft.com/trust-center/privacy/data-location",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/intune/sign-in-privacy-statement.md",
+        "redirect_url": "https://www.microsoft.com/trust-center/privacy/data-location",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/marketplace/participation-policy.md",
+        "redirect_url": "/azure/marketplace/policies-terms",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/intune/remote-assistance-via-microsoft-easy-assist.md",
+        "redirect_url": "/mem/intune/fundamentals/intune-legacy-pc-client",
+        "redirect_document_id": false
+        }
     ]
 }
