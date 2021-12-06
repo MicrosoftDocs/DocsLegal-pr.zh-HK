@@ -5,7 +5,6 @@
       "docset_name": "DocsLegal",
       "build_source_folder": "DocsLegal",
       "build_output_subfolder": "DocsLegal",
-      "need_preview_pull_request": true,
       "locale": "zh-hk",
       "monikers": [],
       "moniker_ranges": [],
@@ -17,6 +16,7 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
+      "need_preview_pull_request": true,
       "version": 0
     },
     {
@@ -55,5 +55,7 @@
   "branch_target_mapping": null,
   "need_generate_pdf_url_template": false,
   "need_generate_pdf": false,
-  "need_generate_intellisense": false
+  "need_generate_intellisense": false,
+  "targets": {},
+  "need_preview_pull_request": true
 }
