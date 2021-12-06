@@ -4,7 +4,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -28,9 +29,7 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {
-       "ms.translationtype":"HT"
-    },
+    "globalMetadata": {},
     "breadcrumb_path": "/legal/bread/toc.json",
     "fileMetadata": {
       "uhfHeaderId": {
