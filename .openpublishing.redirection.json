@@ -99,6 +99,11 @@
         "source_path": "DocsLegal/intune/remote-assistance-via-microsoft-easy-assist.md",
         "redirect_url": "/mem/intune/fundamentals/intune-legacy-pc-client",
         "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/learntv/codeofconduct.md",
+        "redirect_url": "/legal/learnevents/codeofconduct",
+        "redirect_document_id": false
         }
     ]
 }
