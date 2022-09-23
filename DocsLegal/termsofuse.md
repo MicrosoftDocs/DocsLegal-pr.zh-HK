@@ -1,31 +1,31 @@
 ---
 title: 使用條款
-description: docs.microsoft.com 上文件的使用條款。
+description: learn.microsoft.com 文件的使用條款。
 keywords: ''
 author: ''
 manager: ''
-ms.date: 09/19/2018
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 626e266caf6ba6b46149899bd8d6a78bb42302f2
+ms.sourcegitcommit: c60983f87856c154a8d94b208aea0d417c51b8b1
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347536"
+ms.lasthandoff: 09/17/2022
+ms.locfileid: "147949565"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - 使用條款
+# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - 使用條款
 
 ## <a name="acceptance-of-terms"></a>接受條款
 
-下列使用條款 (以下稱「TOU」) 適用於　貴用戶對 Microsoft Docs 網站 ([https://docs.microsoft.com](https://docs.microsoft.com))、Tech Profile ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)) 和任何相關服務的使用。 Microsoft 保留在不通知　貴用戶情況下，隨時更新 TOU 之權利。 按一下本公司網頁最下面之 [使用條款] 超連結，即可檢視最新版的 TOU。
+下列使用條款 (以下稱「TOU」) 適用於　貴用戶對 Microsoft Learn 網站 ([https://learn.microsoft.com](https://learn.microsoft.com))、Tech Profile 和任何相關服務的使用。 Microsoft 保留在不通知貴用戶情況下，隨時更新 TOU 之權利。 按一下本公司網頁最下面之 [使用條款] 超連結，即可檢視最新版的 TOU。
 
 ## <a name="description-of-service"></a>服務說明
 
-Microsoft 透過 Microsoft Docs 網站、Tech Profile 和相關服務，提供　貴用戶存取各種資源的權限，這些資源包括互動式學習教學課程、文件、影片、開發人員工具、下載區、溝通論壇和產品資訊 (以下合稱「本服務」)。 本服務 (包括更新、加強程式、新功能及/或任何新增的 Web 屬性) 係受 TOU 之規範。
+Microsoft 透過 Microsoft Learn 網站、Tech Profile 和相關服務，提供　貴用戶存取各種資源的權限，這些資源包括互動式訓練教學課程、文件、影片、開發人員工具、下載區、溝通論壇和產品資訊 (以下合稱「本服務」)。 本服務 (包括更新、加強程式、新功能及/或任何新增的 Web 屬性) 係受 TOU 之規範。
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>個人暨非商業性使用限制
 
@@ -35,7 +35,7 @@ Microsoft 透過 Microsoft Docs 網站、Tech Profile 和相關服務，提供�
 
 貴用戶之隱私權對本公司而言非常重要。 請詳細閱讀 [Microsoft 隱私權聲明](https://privacy.microsoft.com/privacystatement) (以下稱「隱私權聲明」)，其描述本公司從　貴用戶及　貴用戶裝置蒐集之資料類型、本公司如何使用有關資料，以及我們必須處理該資料的法律依據。 隱私權聲明亦敘述 Microsoft 如何使用服務之提交內容 (如本文所定義)、註解、評分或評論、貴用戶經由服務而上傳、儲存、廣播或分享之檔案、相片、文件、音訊、數位著作、即時串流、影片即任何其他內容 (以下稱「貴用戶之內容」)。 一旦或同意本條款，即表示　貴用戶同意 Microsoft 在您同意之下處理，並在相關法律許可的範圍之內蒐集、使用及揭露　貴用戶之內容和資料，如隱私權聲明所述。 在某些情況下，本公司將依隱私權聲明中所引述，另行提供通知並請求　貴用戶的同意。
 
-**公用使用者資訊和內容**： 其他人可能會查看　貴用戶提供之使用者資訊 (包括使用者名稱、顯示名稱、虛擬人偶影像、傳記、職稱和組織，以及　貴用戶的使用者成就)。 為使用 Tech Profile，貴用戶僅需提供使用者名稱和顯示名稱。 其他所有欄位均為選填。 您可以隨時更新使用者名稱和顯示名稱。 Microsoft 亦得收集和公開顯示　貴用戶註冊 Tech Profile 的日期，以及您與 Microsoft 之關係。
+**公開的使用者資訊和內容**：其他人可能會查看　貴用戶提供之使用者資訊 (包括使用者名稱、顯示名稱、虛擬人偶影像、傳記、職稱和組織，以及　貴用戶的使用者成就)。 為使用 Tech Profile，貴用戶僅需提供使用者名稱和顯示名稱。 其他所有欄位均為選填。 您可以隨時更新使用者名稱和顯示名稱。 Microsoft 亦得收集和公開顯示　貴用戶註冊 Tech Profile 的日期，以及您與 Microsoft 之關係。
 
 其他人也可能會查看貴用戶公開張貼的任何內容。 貴用戶可以在張貼特定類型的內容後將其刪除，但並非所有類型的內容均能夠在公開張貼後刪除。
 
@@ -74,13 +74,13 @@ MICROSOFT 及/或其個別之供應商對於所發生之任何特殊、間接性
 
 **Azure Active Directory 帳戶**。 貴用戶可能會透過所屬組織獲得 Microsoft 帳戶。 請聯絡貴組織的管理員，瞭解本帳戶的資訊。
 
-**Tech Profile 帳戶**。 貴用戶的 Tech Profile 帳戶能讓您登入 Microsoft Docs 網站和使用相關服務，包括免費存取學習資源、解除封鎖成就、評分、留言、張貼內容和使用其他互動式服務。 　貴用戶可以在使用 Microsoft 帳戶或 Azure Active Directory 帳戶後，在 [Tech Profile](https://techprofile.microsoft.com/) 中建立使用者名稱，進而建立 Tech Profile 帳戶。
+**Tech Profile 帳戶**。 貴用戶的 Tech Profile 帳戶能讓您登入 Microsoft Learn 網站和使用相關服務，包括免費存取訓練資源、解除封鎖成就、評分、留言、張貼內容和使用其他互動式服務。 　貴用戶可以在使用 Microsoft 帳戶或 Azure Active Directory 帳戶後，在 Tech Profile 中建立使用者名稱，進而建立 Tech Profile 帳戶。
 
 貴用戶同意，於註冊　貴用戶之 Tech Profile 帳戶時，不會使用任何不實、不準確或誤導之資訊。 貴用戶對於維護密碼及帳號之機密性必須負完全責任。 此外，貴用戶亦必須對所開立帳號下之一切活動負完全責任。 貴用戶同意，若有任何人未經授權使用貴用戶之帳號，或是有其他違反安全性之行為，均應立即通知 Microsoft。 若因為他人使用　貴用戶之密碼或帳號，而導致　貴用戶遭受損失，則不論　貴用戶是否知情，Microsoft 均不負任何賠償責任。 然而，若因為他人使用　貴用戶之帳號或密碼而導致 Microsoft 或其他人遭受損失，則　貴用戶可能需負賠償責任。 在未取得帳戶擁有人許可的情況下，任何時候　貴用戶均不得使用他人之帳戶。
 
 如果　貴用戶代表機構 (例如　貴用戶之企業或雇主) 建立一個 Tech Profile 帳戶，即表示　貴用戶聲明其具有使該機構受本條款拘束之合法權限。 貴用戶不得移轉　貴用戶之 Tech Profile 帳戶憑證予其他使用者或機構。 為保護　貴用戶之帳戶，　貴用戶務必將其帳戶詳細資料保密。 貴用戶對使用　貴用戶之 Tech Profile 帳戶所為之一切活動，應全權負責。
 
-　貴用戶可以[在此存取 Tech Profile 帳戶設定](https://techprofile.microsoft.com/edit/)，藉此關閉 Tech Profile 帳戶。
+貴用戶可以存取 Tech Profile 帳戶設定，藉此關閉 Tech Profile 帳戶。
 
 ## <a name="no-unlawful-or-prohibited-use"></a>禁止非法或違規使用
 
