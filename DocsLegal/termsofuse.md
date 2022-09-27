@@ -10,12 +10,12 @@ ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 626e266caf6ba6b46149899bd8d6a78bb42302f2
-ms.sourcegitcommit: c60983f87856c154a8d94b208aea0d417c51b8b1
+ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 09/17/2022
-ms.locfileid: "147949565"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979727"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - 使用條款
 
