@@ -6,16 +6,16 @@ ms.author: jken
 ms.prod: legal
 ms.topic: article
 ms.date: 11/25/2020
-ms.openlocfilehash: fb025dc184b95fd2e4ab9331d36fce7cd5672471
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 7661b9449c2cfb1dc69231499c5d89f0f78ff96e
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347524"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979659"
 ---
-# <a name="microsoft-legal-resources-on-docsmicrosoftcom"></a>Microsoft 法律資源載於 Docs.microsoft.com
+# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>learn.microsoft.com 上的 Microsoft 法律資源
 
-請在下方尋找法律資源的連結。
+以下是前往法律資源之連結。
 
 - [一般資料保護法規 (GDPR)](/legal/gdpr)
 - [軟體授權條款](information-protection/software-license-terms.md)

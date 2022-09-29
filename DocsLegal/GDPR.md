@@ -1,15 +1,15 @@
 ---
 title: 一般資料保護法規 (GDPR)
-description: GDPR docs.microsoft.com。
+description: GDPR learn.microsoft.com。
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347529"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979455"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Microsoft 對我們一般可取得之企業軟件產品客戶的 GDPR 承諾
 
@@ -17,7 +17,7 @@ ms.locfileid: "141347529"
 
 歐盟一般資料保護法規 (GDPR) 為全球隱私權、資訊安全及合規性設立重要標準。 在 Microsoft，我們將隱私權視為一項基本權利，而 GDPR 是保護及實現個人隱私權的重要一步。     
 
-Microsoft 不但致力於自身遵守 GDPR，亦提供一系列產品、功能、文件及資源，以支援我們的客戶履行其於 GDPR 下的合規義務。 以下說明 Microsoft 針對企業軟體蒐集的個人資料，對其客戶做出的合約承諾。 （有關 Microsoft 商業許可計劃許可的軟件，請直接參閱 Microsoft 產品和服務資料保護附錄（DPA，網址為http://aka.ms/dpa)））
+Microsoft 不但致力於自身遵守 GDPR，亦提供一系列產品、功能、文件及資源，以支援我們的客戶履行其於 GDPR 下的合規義務。 以下說明 Microsoft 針對企業軟件收集的個人資料，對其客戶做出的合約承諾。 （有關 Microsoft 商業許可計劃許可的軟件，請直接參閱 Microsoft 產品和服務資料保護附錄（DPA，網址為http://aka.ms/dpa)））
 
 **Microsoft 是否就 GDPR 向其客戶作出承諾？**
 
