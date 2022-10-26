@@ -10,12 +10,12 @@ ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
 ms.translationtype: HT
 ms.contentlocale: zh-HK
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979727"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103198"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - 使用條款
 
@@ -70,7 +70,7 @@ MICROSOFT 及/或其個別之供應商對於所發生之任何特殊、間接性
 
 部分服務可能需要您擁有 Microsoft 帳戶、Azure Active Directory 帳戶或 Tech Profile 帳戶。
 
-**Microsoft 帳戶**。 貴用戶之 Microsoft 帳戶可讓　貴用戶登入 Microsoft 和若干 Microsoft 合作夥伴所提供之產品、網站及服務。 　貴用戶可透過[線上](https://signup.live.com/)註冊來建立 Microsoft 帳戶。 Microsoft 帳戶受 [Microsoft 服務合約](https://www.microsoft.com/servicesagreement/)約束。
+**Microsoft 帳戶**。 貴用戶之 Microsoft 帳戶可讓　貴用戶登入 Microsoft 和若干 Microsoft 合作夥伴所提供之產品、網站及服務。 您可以[在網上註冊來建立 Microsoft 帳戶](https://signup.live.com/)。 Microsoft 帳戶受 [Microsoft 服務合約](https://www.microsoft.com/servicesagreement/)約束。
 
 **Azure Active Directory 帳戶**。 貴用戶可能會透過所屬組織獲得 Microsoft 帳戶。 請聯絡貴組織的管理員，瞭解本帳戶的資訊。
 
