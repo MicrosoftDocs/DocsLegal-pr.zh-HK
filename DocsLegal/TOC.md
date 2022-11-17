@@ -1,10 +1,10 @@
 
-# [一般資料保護法規 (GDPR)](gdpr.md)
-# [Azure 軟件授權條款](/legal/information-protection/software-license-terms)
-# [Microsoft 開發人員合約](MDSA.md)
-# [使用條款](/legal/termsofuse)
-# [Learn TV 的行為準則](/legal/learntv/codeofconduct)
-# [學習數據分享條款](/legal/learn/reporting/terms)
+# <a name="general-data-protection-regulation-gdpr"></a>[一般資料保護法規 (GDPR)](gdpr.md)
+# <a name="azure-software-licensing-terms"></a>[Azure 軟件授權條款](/legal/information-protection/software-license-terms)
+# <a name="microsoft-developer-agreement"></a>[Microsoft 開發人員合約](MDSA.md)
+# <a name="terms-of-use"></a>[使用條款](/legal/termsofuse)
+# <a name="learn-tv-code-of-conduct"></a>[Learn TV 行為規範](/legal/learntv/codeofconduct)
+# <a name="terms-of-learn-data-sharing"></a>[學習資料共用的條款](/legal/learn/reporting/terms)
 
 <!--## [Basque](software-license-terms-eu-es.md) -->
 <!--## [Bulgarian](software-license-terms-bg-bg.md) -->
