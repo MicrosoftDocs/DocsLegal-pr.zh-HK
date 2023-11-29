@@ -5,7 +5,7 @@ keywords: ''
 author: ''
 manager: ''
 ms.date: 09/17/2022
-ms.topic: article
+ms.topic: legal
 ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
