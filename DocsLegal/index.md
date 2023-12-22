@@ -4,13 +4,13 @@ description: 有關 Microsoft 使用條款、GDPR、資訊保護、軟件授權�
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>learn.microsoft.com 上的 Microsoft 法律資源
+# learn.microsoft.com 上的 Microsoft 法律資源
 
 以下是前往法律資源之連結。
 
