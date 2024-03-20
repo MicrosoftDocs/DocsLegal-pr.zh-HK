@@ -18,32 +18,15 @@
       "template_folder": "_themes",
       "need_preview_pull_request": true,
       "version": 0
-    },
-    {
-      "docset_name": "intune",
-      "build_source_folder": "DocsLegal/intune",
-      "build_output_subfolder": "intune",
-      "locale": "zh-hk",
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "version": 0
     }
   ],
   "notification_subscribers": [],
-  "sync_notification_subscribers": null,
   "branches_to_filter": [
     "live-sxs",
     "master-sxs"
   ],
   "continue_with_document_error": true,
-  "skip_source_output_uploading": false,
-  "contribution_branch_mappings": null,
+  "need_preview_pull_request": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -52,10 +35,10 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": null,
+  "targets": {},
+  "skip_source_output_uploading": false,
+  "contribution_branch_mappings": null,
   "need_generate_pdf_url_template": false,
   "need_generate_pdf": false,
-  "need_generate_intellisense": false,
-  "targets": {},
-  "need_preview_pull_request": true
+  "need_generate_intellisense": false
 }
