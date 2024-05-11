@@ -1,10 +1,9 @@
 ---
 title: Microsoft 法律部
-description: 有關 Microsoft 使用條款、GDPR、資訊保護、軟件授權條款等的資訊。
+description: Microsoft 使用條款、GDPR、資訊保護、軟件授權條款等相關資訊。
 author: GrantMeStrength
 ms.author: jken
-ms.prod: legal
-ms.topic: legal
+ms.service: legal
 ms.date: 11/25/2020
 ---
 
@@ -12,10 +11,10 @@ ms.date: 11/25/2020
 
 # learn.microsoft.com 上的 Microsoft 法律資源
 
-以下是前往法律資源之連結。
+以下是前往法律資源的連結。
 
-- [一般資料保護法規 (GDPR)](/legal/gdpr)
-- [軟體授權條款](information-protection/software-license-terms.md)
+- [通用數據保障條例 (GDPR)](/legal/gdpr)
+- [軟件授權條款](information-protection/software-license-terms.md)
 - [使用條款](/legal/termsofuse)
-- [Learn TV 行為規範](/legal/learntv/codeofconduct)
-- [學習資料共用的條款](/legal/learn/reporting/terms)
+- [Learn TV 行為守則](/legal/learntv/codeofconduct)
+- [Learn 資料共用的條款](/legal/learn/reporting/terms)
