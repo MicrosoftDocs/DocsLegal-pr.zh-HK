@@ -4,7 +4,7 @@ description: 本文章詳細說明我們如何測量 Copilot+ PC 的效能、電
 ms.service: windows-client
 ms.subservice: windows-copilot
 ms.localizationpriority: medium
-ms.date:05/20/2024
+ms.date: 05/20/2024
 author: aaroncz
 ms.author: aaroncz
 manager: aaroncz
