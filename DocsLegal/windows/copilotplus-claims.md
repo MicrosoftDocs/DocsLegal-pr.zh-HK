@@ -1,5 +1,5 @@
 ---
-title： Copilot+ PC 效能詳細資訊
+title: Copilot+ PC 效能詳細資訊
 description: 本文章詳細說明我們如何測量 Copilot+ PC 的效能、電池及應用程式功能。
 ms.service: windows-client
 ms.subservice: windows-copilot
