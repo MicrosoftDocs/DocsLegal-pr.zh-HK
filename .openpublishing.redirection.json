@@ -17,7 +17,7 @@
         },
         {
         "source_path": "DocsLegal/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview.md",
-        "redirect_url": "https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/intro-to-spatial-analysis-public-preview",
+        "redirect_url": "/azure/cognitive-services/Computer-vision/intro-to-spatial-analysis-public-preview",
         "redirect_document_id": false
         },
         {
@@ -98,6 +98,21 @@
         {
         "source_path": "DocsLegal/intune/remote-assistance-via-microsoft-easy-assist.md",
         "redirect_url": "/mem/intune/fundamentals/intune-legacy-pc-client",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/learntv/codeofconduct.md",
+        "redirect_url": "/legal/learnevents/codeofconduct",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/cognitive-services/openai/guidance-integration-responsible-use.md",
+        "redirect_url": "/legal/cognitive-services/openai/transparency-note",
+        "redirect_document_id": false
+        },
+        {
+        "source_path": "DocsLegal/cognitive-services/openai/characteristics-and-limitations.md",
+        "redirect_url": "/legal/cognitive-services/openai/transparency-note",
         "redirect_document_id": false
         }
     ]
