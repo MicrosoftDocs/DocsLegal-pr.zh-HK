@@ -26,6 +26,7 @@
     "master-sxs"
   ],
   "continue_with_document_error": true,
+  "need_preview_pull_request": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -34,6 +35,7 @@
       "branch_mapping": {}
     }
   ],
+  "targets": {},
   "skip_source_output_uploading": false,
   "contribution_branch_mappings": null,
   "need_generate_pdf_url_template": false,

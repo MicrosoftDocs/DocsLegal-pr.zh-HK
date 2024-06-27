@@ -4,7 +4,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -28,11 +29,16 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {
-       "ms.translationtype":"HT"
-    },
+    "globalMetadata": {},
     "breadcrumb_path": "/legal/bread/toc.json",
-    "fileMetadata": {},
+    "fileMetadata": {
+      "uhfHeaderId": {
+        "cognitive-services/**/*.md": "azure",
+        "cognitive-services/**/*.yml": "azure",
+        "sentinel/**/*.md": "azure",
+        "sentinel/**/*.yml": "azure"
+      }
+    },
     "template": [],
     "dest": "DocsLegal",
     "brand": "dynamics"
