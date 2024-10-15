@@ -2,7 +2,7 @@
 title: Microsoft Developer 協議
 description: Microsoft 開發人員合約 learn.microsoft.com
 author: gregtouchton
-ms.service: active-directory
+ms.service: azure-active-directory
 ms.date: 06/15/2018
 ms.author: grtoucht
 layout: ContentPage
